@@ -1,6 +1,6 @@
 ### Hi there, I'm David Laborico 👋
 
-## I'm a Developer and Computer Engineering Student
+## I'm a Developer and Master in Artificial Intelligence Student
 - 🌱 I’m currently learning everything, especially AI and ML 
 - 👯 I’m looking to collaborate in more projects
 - ⚡ Fun fact: I love to play videogames and listen to music
